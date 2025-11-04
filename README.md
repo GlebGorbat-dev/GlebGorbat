@@ -39,6 +39,9 @@
 > This repository contains portfolio-ready code samples, automation scripts, and AI-powered integrations.  
 > Each project is designed with scalability, clarity, and real-world application in mind.
 
+- 🔧 [MyProjects — Pet Projects Repository](https://github.com/GlebGorbat-dev/MyProjects)  
+  A collection of personal experiments, prototypes, and automation tools built with Python, AI, and more.
+
 ---
 
 ## 📫 Contact Me
