@@ -25,7 +25,6 @@ Hi! I'm a passionate developer specializing in **web applications with AI agent 
 
 Feel free to reach out or collaborate!
 
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 your.email@example.com
-- 🐙 [GitHub](https://github.com/yourusername)
+- 🌐 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gleb-gorbat-53b54a393/))
+- 📧 glebgorbat17@gmail.com
 
